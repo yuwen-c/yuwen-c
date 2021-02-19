@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-<div>Hi 👋, I'm yuwen-c. I build full-stack apps with react and express.</div>
+<div>Hi 👋, I'm yuwen-c. I build full-stack fun apps with react and express.</div>
 <div>Fan of badminton and gym.</div>
 <div>Mandarin/ English/ Spanish </div>
 
