@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!---->
+<!--
 **yuwen-c/yuwen-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+-->
 
 <div>Hi 👋, I'm yuwen-c. I create apps</div>
 
@@ -41,3 +41,5 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuwen-c&label=Profile%20views&color=0e75b6&style=flat" alt="yuwen-c" /> </p>
