@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 <div>Hi 👋, I'm yuwen-c. I build full-stack apps with react and express.</div>
-<div>Fan of badminton 🏸 nbsp; and gym 💪nbsp;.</div>
-<div>💬 nbsp; Mandarin/ English/ Spanish </div>
+<div>Fan of badminton 🏸 &nbsp; and gym 💪&nbsp;.</div>
+<div>💬 &nbsp; Mandarin/ English/ Spanish </div>
 
 
 <h3 align="left">Languages and Tools:</h3>
