@@ -47,7 +47,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" 
     alt="redux" width="40" height="40"/> </a> 
 
-
+<br/>
 
 
 <a href="https://www.postgresql.org" target="_blank"> 
